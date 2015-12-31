@@ -1,3 +1,0 @@
-% operator has same precedence as / and *.
-Output formatting---print "Hey %s there." % "you"
-Learn Python format chars. %r is a very useful one. It's like saying "print this no matter what."
